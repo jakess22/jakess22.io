@@ -8,4 +8,4 @@ Undergraduate Research Associate
 **Advisor:** Zubair Shafiq
 
 ## USDA Sustainable Agricultural Water Systems Research
-Machine Learning principal engineer.
+Principal machine learning engineer.
