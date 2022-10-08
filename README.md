@@ -7,7 +7,7 @@ B.S. in Computer Science (2021-Present)
 
 ## Experience
 ### University of California, Davis
-Undergraduate Research Associate. **Advisor:** Zubair Shafiq.
+Undergraduate Privacy Research Associate. **Advisor:** Zubair Shafiq.
 
 ### USDA Sustainable Agricultural Water Systems Research
 Principal machine learning engineer.
