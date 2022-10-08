@@ -1,6 +1,6 @@
 # Education
 ## University of California, Davis
-B.S. in Computer Science (2021-2023)
+B.S. in Computer Science (2021-Present)
 
 # Experience
 ## University of California, Davis
