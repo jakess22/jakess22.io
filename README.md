@@ -9,6 +9,9 @@ B.S. in Computer Science (2021-Present)
 ### University of California, Davis
 Undergraduate Privacy Research Associate. **Advisor:** Zubair Shafiq.
 
+### ProperData
+Researching Network Privacy Measurement. 
+
 ### USDA Sustainable Agricultural Water Systems Research
 Lead machine learning engineer.
 
