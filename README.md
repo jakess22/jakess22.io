@@ -13,7 +13,12 @@ Undergraduate Privacy Research Associate. **Advisor:** Zubair Shafiq.
 Researching Network Privacy Measurement. 
 
 ### USDA Sustainable Agricultural Water Systems Research
-Lead machine learning engineer.
+Machine learning engineer.
+
+## Updates
+### January 2023: Uploaded preprint of Literature Review of Cookie Synchronization Detection Methods to arXiv.com (arxiv.org/abs/2301.02619)
+### December 2022: Attended and presented current work detecting domains conducting encrypted cookie synchronization at ProperData’s 2022 Symposium at UC Irvine.
+
 
 ### GitHub: https://github.com/jakess22
 ### Contact: @jsssmit@ucdavis.edu
