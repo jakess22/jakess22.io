@@ -16,7 +16,7 @@ Researching Network Privacy Measurement.
 Machine learning engineer.
 
 ## Updates
-### January 2023: Uploaded preprint of Literature Review of Cookie Synchronization Detection Methods to [arXiv.com](arxiv.org/abs/2301.02619).
+### January 2023: Uploaded preprint of [Literature Review of Cookie Synchronization Detection Methods](arxiv.org/abs/2301.02619) to arXiv.com.
 ### December 2022: Attended and presented current work detecting domains conducting encrypted cookie synchronization at ProperData’s 2022 Symposium at UC Irvine.
 
 
