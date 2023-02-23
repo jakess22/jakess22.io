@@ -4,6 +4,7 @@ Incoming Computer Science Ph.D. student at UC Davis, researching heterogenous sy
 ## Education
 ### University of California, Davis
 Ph.D in Computer Science (2023-2027)
+
 B.S. in Computer Science (2021-2023)
 
 ## Experience
