@@ -1,9 +1,10 @@
 # Jake Smith
-I am a senior undergraduate CS student at [UC Davis](https://cs.ucdavis.edu), researching cookie based tracking under [Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair/index.html). Our research aims to detect novel cookie matching end-points and report on the current prevalence of cookie matching using machine learning.   
+Incoming Computer Science Ph.D. student at UC Davis, researching heterogenous system security under Professor S.J. Ben Yoo.
 
 ## Education
 ### University of California, Davis
-B.S. in Computer Science (2021-Present)
+Ph.D in Computer Science (2023-2027)
+B.S. in Computer Science (2021-2023)
 
 ## Experience
 ### University of California, Davis
