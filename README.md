@@ -1,9 +1,9 @@
 # Jake Smith
-Incoming Computer Science Ph.D. student at UC Davis, researching heterogenous system security under Professor S.J. Ben Yoo.
+Computer Science Ph.D. student at UC Davis, researching heterogenous system security under Professor S.J. Ben Yoo.
 
 ## Education
 ### University of California, Davis
-Ph.D in Computer Science (2023-2027)
+Ph.D. in Computer Science (2023-2027)
 
 B.S. in Computer Science (2021-2023)
 
